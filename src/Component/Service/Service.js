@@ -4,7 +4,7 @@ import './Service.css'
 const Service = () => {
   return (
    <>
-   <div className='con'>
+   <div className='con'id='service'>
     <div>
         <h1>Our Service</h1>
         <p>The legal services we offer ensure the safeguarding of your rights. We advise and defend employees in disputes 
@@ -12,7 +12,7 @@ const Service = () => {
         flexibility and loyality to the client. Our work is based on objectivity, experience and sensitivity to people.
         </p>
     </div>
-   <div className='box'>
+   <div className='box' >
         <div className='box-1'>
            
             <img src='https://woodruffsawyer.com/wp-content/uploads/2022/02/desk-lamp-signing_2056444919_compressed.jpg' alt='img1' />
