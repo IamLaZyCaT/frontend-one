@@ -1,0 +1,35 @@
+.bg{
+    background-color: rgb(11, 11, 54);
+    width: 100%;
+    color: white;
+   
+}
+.con-1{
+    text-align: left;
+    margin:0px 100px 0 100px; 
+}
+.con-1 h1{
+    margin-top: 100px;
+    text-align: center;
+}
+.para{
+   padding-top: 30px;
+}
+.con-1 .para h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+.con-1 .para p{
+    font-size: 20px;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   padding: 80px 0; 
+}
+.pic img{
+    height: 30%;
+    width: 30%;
+    margin: 5px;
+}
