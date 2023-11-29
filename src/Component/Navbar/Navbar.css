@@ -31,6 +31,12 @@
 }
 .act{
     background-color: gray;
+    cursor: pointer;
+
+}
+.navbar .ul li:hover{
+    background-color: gray;
+    cursor: pointer;
 
 }
 .footer{
